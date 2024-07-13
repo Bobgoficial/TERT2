@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.duxnutrition.com	TRUE	/	FALSE	1999999999	VtexWorkspace	master%3A1c720fff-1560-4944-8c1a-b0add79ab3bb
+.useinsider.com	TRUE	/	FALSE	1999999999	__cf_bm	6h1UDzB2HaPaqS40vAMzYg7y_AOs8mSsmBo..MlTtO4-1720833597-1.0.1.1-bjgyHWS2m5TUGFART04OLPkfdqxjwB_QY5beOg7Gr8q_qIrQeCssS0vcdwl31BAAtB1JNv4yckyGSKTSb88pkg
+tiktok.com	TRUE	/	FALSE	1999999999	_ttp	2jAd2Tf83kE6rKIhwKgg7JXulWp
+analytics.tiktok.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.duxnutrition.com	TRUE	/	FALSE	1999999999	janus_sid	1d4c0fec-c8a6-470b-a891-7a36bf60ba88
+www.duxnutrition.com	TRUE	/	FALSE	1999999999	samesite	lax
+
